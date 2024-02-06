@@ -1,0 +1,9 @@
+Coding rules :
+
+1. Trick Your Brain with the 20 minute Rule
+2. Code for a Purpose
+3. Understand What You’re Writing
+4. It’s Ok to Not Know
+5. Be a Copycat
+6. Keep Learning
+7. Break someone else's code
